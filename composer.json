@@ -6,6 +6,11 @@
         "monolog/monolog": "^2.1",
         "illuminate/database": "8.0.1"
     },
+    "autoload": {   
+        "psr-4": { 
+            "Models\\": "Models/"
+        }
+    },
     "license": "MIT",
     "authors": [
         {
