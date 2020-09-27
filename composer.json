@@ -1,0 +1,16 @@
+{
+    "name": "narit/php-with-composer",
+    "description": "Develop php with composer",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.1",
+        "illuminate/database": "8.0.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Narit Charoenval",
+            "email": "naritsociety@gmail.com"
+        }
+    ]
+}

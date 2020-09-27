@@ -1,0 +1,1 @@
+https://www.codewall.co.uk/use-laravel-eloquent-query-builder-in-any-php-project/
